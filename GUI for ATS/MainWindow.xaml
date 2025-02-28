@@ -114,7 +114,7 @@
 
             <Label Content="Timestamp server:" Grid.Column="0" Margin="3,1,3,1" VerticalContentAlignment="Center" Width="Auto" Height="Auto" Grid.ColumnSpan="2" />
             <TextBox Name="TextBoxTimestampServer" Grid.Column="1" Margin="3,3,3,3" VerticalContentAlignment="Center" Width="Auto" Height="Auto" IsEnabled="False" ToolTipService.ShowOnDisabled="True" Background="#FFADADAD" />
-            <Button x:Name="ButtonEditTimestamp" Grid.Column="2" Content="Edit" Margin="3,3,0,3" Width="Auto" Height="Auto" Click="ButtonEditTimestamp_Click" />
+            <Button x:Name="ButtonEditTimestamp" Grid.Column="2" Content="Edit" Margin="3,3,3,3" Width="Auto" Height="Auto" Click="ButtonEditTimestamp_Click" />
             <Button x:Name="ButtonDefaultTimestamp" Grid.Column="3" Content="Default" Margin="3,3,3,3" Width="Auto" Height="Auto" Click="ButtonDefaultTimestamp_Click" />
         </Grid>
 

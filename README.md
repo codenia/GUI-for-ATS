@@ -10,7 +10,7 @@ The main advantage of this application is that you do not need to create the env
 **`AZURE_CLIENT_ID`**, **`AZURE_TENANT_ID`**, and **`AZURE_CLIENT_SECRET`**.  
 This data is securely stored in encrypted form after you enter it and is only used in plaintext during the signing process.
 
-![GUI Screenshot](gui-for-ats.jpg)
+![GUI Screenshot](Screenshot%20GUI%20for%20ATS.jpg)
 
 ## 🔧 Requirements
 - Windows 10 / 11

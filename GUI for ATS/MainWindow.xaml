@@ -164,7 +164,7 @@
 
                 <Label x:Name="LabelFileName" Grid.Column="1" Margin="0,1,3,1" VerticalContentAlignment="Center" Width="Auto" Height="Auto" FontWeight="Bold" />
 
-                <Button x:Name="ButtonRemoveFile" Content="✖" Grid.Column="2" FontSize="10" Margin="7,5,2,5" Height="Auto" Click="ButtonRemoveFile_Click"/>
+                <Button x:Name="ButtonRemoveFile" Content="✖" Grid.Column="2" FontSize="10" Margin="6,3,2,5" Height="Auto" Click="ButtonRemoveFile_Click"/>
 
                 <Label x:Name="LabelFilePath" Grid.Row="1" Grid.ColumnSpan="3" Margin="0,1,3,1" VerticalContentAlignment="Center" Width="Auto" Height="Auto" />
 
